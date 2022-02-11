@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+}
+.landing-page {
+    height: 100vh;
+    background-color: #BAE8E8;
+}
+
+.header {
+    padding: 30px;
+    /* border-bottom: 2px solid #272343; */
+}
+
+.header hr {
+    border: none;
+    border-top: 2px solid #272343;
+}
+
+.page-title {
+    margin-top: 0;
+    color: #272343;
+}
+
+.page-title, .nav, .main-nav-item {
+    display: inline-block;
+}
+
+.page-title, .nav {
+    width: 49%;
+}
+
+.main-nav {
+    padding: 0;
+}
+
+.main-nav-item {
+    width: 24%;
+}
+
+.main-nav-link {
+    text-decoration: none;
+    color: #272343;
+    display: block;
+}
+
+.main-nav-link-btn {
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #272343;
+    padding: 10px 0;
+    color: #fff;
+    text-align: center;
+}
+
+.notice-title {
+    font-size: 74px;
+    color: #272343;
+    width: 524px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+
