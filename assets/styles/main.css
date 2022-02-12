@@ -61,4 +61,83 @@ body {
     margin-top: 10px;
 }
 
+.info {
+    padding: 50px;
+}
 
+.info-title {
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+.services-list {
+    margin-bottom: 30px;
+}
+
+ul {
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+ul li {
+    margin-bottom: 7px;
+}
+
+.specialty {
+    background-color: #272343;
+    color: #ffffff;
+    padding: 40px;
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    width: 28%;
+    text-align: left;
+    padding: 20px;
+}
+
+.card-title {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-size: 18px;
+}
+
+.packages {
+    padding: 40px;
+}
+
+.package-title {
+    font-size: 40px;
+    text-align: center;
+    color: #272343;
+    margin-top: 0;
+}
+
+.package-table {
+    width: 80%;
+    /* background-color: red; */
+    margin: 0 auto;
+}
+
+/* table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+} */
+
+.package-table th, .package-table td {
+    text-align: left;
+    padding: 20px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.package-table thead {
+    background-color: #e8e8e8;
+}
